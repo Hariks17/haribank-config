@@ -1,0 +1,11 @@
+build:
+  info: "3.0"
+
+accounts:
+  message: "Welcome to HariBank accounts related Local APIs "
+  contactDetails:
+    name: "Hari - Developer"
+    email: "hari@haribank.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345
