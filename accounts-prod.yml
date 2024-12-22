@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to HariBank accounts related PROD APIs "
+  message: "Welcome to HariBank accounts related PRODUCTION APIs "
   contactDetails:
     name: "Ackerman - Product Owner"
     email: "Ackerman@haribank.com"
