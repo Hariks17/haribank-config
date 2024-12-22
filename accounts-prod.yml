@@ -4,8 +4,8 @@ build:
 accounts:
   message: "Welcome to HariBank accounts related PRODUCTION APIs "
   contactDetails:
-    name: "Ackerman - Product Owner"
-    email: "Ackerman@haribank.com"
+    name: "Ackerman-Product Owner"
+    email: "{cipher}f6080dca9c6eabf0a5d1acee94dbd3c691ab6750e72a9ab8bf1df26992df644491e0b7072f2305d2a97d7585135258c9"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
